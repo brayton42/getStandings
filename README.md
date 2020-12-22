@@ -1,0 +1,2 @@
+# getStandings
+Displays standings results
